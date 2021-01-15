@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "172.33.148.11",
+            "port": 3307,
+            "database": "pms",
+            "driver": "MySQL",
+            "name": "tl",
+            "password": "2qkO%QA79VC6QHEm",
+            "username": "reader"
+        }
+    ]
+}
